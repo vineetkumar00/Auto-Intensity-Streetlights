@@ -1,4 +1,4 @@
-# auto-intensity-streetlights
+# Auto-Intensity-Streetlights
 
 # Auto Intensity Street Light Controller Using Arduino, RTC, and LDR
 
